@@ -1,2 +1,2 @@
 # Apec-task-responsive-site-
-make responsive site using html,css, bootstrap
+make responsive site using Html,Css, Bootstrap,jQuary
